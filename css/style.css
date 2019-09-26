@@ -1,9 +1,9 @@
-.row {
+/* .row {
   width: 992px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-}
+} */
 
 /* BLOCCO LEZIONI */
 #lezioni .row > .left, #lezioni .row > .right{
@@ -62,6 +62,6 @@ img{
   height: 200px;
 }
 
-.clear {
+/* .clear {
   clear:both;
-}
+} */
